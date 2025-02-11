@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/71b9cba9-6328-4904-93e0-d717cdd6a037)
+
+![image](https://github.com/user-attachments/assets/6c8b0eea-7d10-4876-a25b-6c6387eca31e)
+
+
 # Analyse et Explication du Code d’Animation de Sprites
 
 Ce document présente une analyse détaillée du code JavaScript qui permet de charger, découper et animer des sprites sur un élément `<canvas>` HTML. L’objectif est de comprendre chacune des parties du code, ses fonctionnalités et les subtilités mises en œuvre.
