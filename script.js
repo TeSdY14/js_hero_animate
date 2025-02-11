@@ -133,10 +133,10 @@ window.onresize = () => {
 async function main() {
   c.imageSmoothingEnabled = false; // ne pas lisser l'image (évite un effet flou)
   const cavalier1Spritesheet = await loadSprite(
-    "https://i.imgur.com/34MQN88.png"
+    "cavalier1-sprites.png"
   );
   const cavalier2Spritesheet = await loadSprite(
-    "https://i.imgur.com/UqkOcRY.png"
+    "cavalier2-sprites.png"
   );
 
   const frameSize = 80;
